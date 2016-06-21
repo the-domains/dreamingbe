@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Be Dreaming]]></title>
         <description><![CDATA[Be Dreaming]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dreamingbe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 10:53:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 10:54:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreamingbe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dreaming Humanity, Dreaming Earth]]></title>
+            <description><![CDATA[<article><h1>Dreaming Humanity, Dreaming Earth</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca7c3f21a5eb60a2ebbcfd3e74b6a61e/croprotate.jpg?cropheight=2955&cropwidth=4438&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7c78f98f-4698-471a-967e-7356129bad13.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c78f98f-4698-471a-967e-7356129bad13.jpg</link>
+            <guid isPermaLink="false">bf545f49-c171-4d6d-b203-24fe31b71a45</guid>
+            <pubDate>Tue, 21 Jun 2016 10:53:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Dreaming? ]]></title>
             <description><![CDATA[<article><h1>What is Dreaming? </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ab573b-6336-46b6-9420-311aa946e17b.jpg"></article>]]></description>
